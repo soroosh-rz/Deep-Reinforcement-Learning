@@ -1,3 +1,7 @@
 http://karpathy.github.io/2016/05/31/rl/
 https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
 https://openai.com/blog/evolution-strategies/
+https://github.com/alirezamika/evostra
+https://github.com/alirezamika/bipedal-es
+http://kvfrans.com/simple-algoritms-for-solving-cartpole/
+https://github.com/kvfrans/openai-cartpole
