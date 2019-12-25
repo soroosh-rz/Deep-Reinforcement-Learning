@@ -5,3 +5,4 @@ https://github.com/alirezamika/evostra
 https://github.com/alirezamika/bipedal-es
 http://kvfrans.com/simple-algoritms-for-solving-cartpole/
 https://github.com/kvfrans/openai-cartpole
+https://ruder.io/optimizing-gradient-descent/
