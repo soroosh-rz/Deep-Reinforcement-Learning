@@ -6,3 +6,7 @@ https://github.com/alirezamika/bipedal-es
 http://kvfrans.com/simple-algoritms-for-solving-cartpole/
 https://github.com/kvfrans/openai-cartpole
 https://ruder.io/optimizing-gradient-descent/
+https://arxiv.org/abs/1611.02247
+https://arxiv.org/abs/1506.02438
+https://arxiv.org/abs/1509.02971
+https://arxiv.org/abs/1603.00748
