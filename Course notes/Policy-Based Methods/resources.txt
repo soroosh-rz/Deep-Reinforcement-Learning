@@ -10,3 +10,13 @@ https://arxiv.org/abs/1611.02247
 https://arxiv.org/abs/1506.02438
 https://arxiv.org/abs/1509.02971
 https://arxiv.org/abs/1603.00748
+https://openreview.net/pdf?id=SyZipzbCb
+https://arxiv.org/pdf/1803.07067.pdf
+https://ai.googleblog.com/2016/10/how-robots-can-acquire-new-skills-from.html
+https://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html
+https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md
+https://arxiv.org/abs/1604.06778
+https://openai.com/blog/openai-baselines-ppo/
+https://openreview.net/forum?id=SyZipzbCb
+https://arxiv.org/abs/1604.06778
+https://www.alexirpan.com/2018/02/14/rl-hard.html
