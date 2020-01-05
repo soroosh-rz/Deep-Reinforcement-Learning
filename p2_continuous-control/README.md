@@ -55,10 +55,23 @@ The environment is considered solved, when the average (over 100 episodes) of th
 - `workspace_utils.py `: The helper functions for executing long running tasks in the Udacity workspace
 - `report.pdf`: Technical report
 
+### Dependencies
+
+To run the codes, you will need an environment with Python 3 and the dependencies listed in the `requirements.txt` file.
+
+```
+pip3 install -r requirements.txt
+``` 
+
+Furthermore, you need to download the environment from one of the links below based on your system OS:
+- Linux : [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip)
+- MAC OSX : [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+- Windows : [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
+
 ### Instructions
 
 Follow the instructions in `Continuous_Control.ipynb` to train the agent and use `inference.ipynb` to watch the performance of the trained agent.  
 
 ### Weights of the Trained Agent
 
-The weights of the trained agent are saved in the files checkpoint_actor.pth and checkpoint_critic.pth under the **weights** folder
+The weights of the trained agent are saved in the files `checkpoint_actor.pth` and `checkpoint_critic.pth` under the **weights** folder
