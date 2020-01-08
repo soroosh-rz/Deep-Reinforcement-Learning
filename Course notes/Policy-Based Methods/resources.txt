@@ -20,3 +20,7 @@ https://openai.com/blog/openai-baselines-ppo/
 https://openreview.net/forum?id=SyZipzbCb
 https://arxiv.org/abs/1604.06778
 https://www.alexirpan.com/2018/02/14/rl-hard.html
+
+https://openai.com/blog/learning-dexterity/
+https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process
+https://github.com/sksq96/pytorch-summary/
